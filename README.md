@@ -2,7 +2,7 @@ This repository houses a the **concourse**, or *universe of possible* statements
 
 [Wikipedia](http://en.wikipedia.org/wiki/Q_methodology) describes a *concourse* as:
 
-	>"the sum of all things people say or think about the issue being investigated"
+> "the sum of all things people say or think about the issue being investigated"
 
 A sample from this concourse may be used for [q-sorts](http://qmethod.org) on the economy, taxation and related/additional topics, such as [`keyneson-sample`](https://github.com/maxheld83/keyneson-sample).
 
