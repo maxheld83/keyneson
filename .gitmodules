@@ -1,3 +1,6 @@
 [submodule "keynes.wiki"]
 	path = keynes.wiki
 	url = https://github.com/maxheld83/keynes.wiki.git
+[submodule "keyneson-concourse.wiki"]
+	path = keyneson-concourse.wiki
+	url = https://github.com/maxheld83/keyneson-concourse.wiki.git
