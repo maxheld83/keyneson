@@ -13,10 +13,9 @@ It was first developed for, and used as part of [Maximilian Held's](http://www.m
 
 Any given iteration of this study is defined by pointers to (versions of) several nested git submodules, to allow for independent versioning:
 
-- [`keyneson`](https://github.com/maxheld83/keyneson): The *Q study*, including q sorts and item feedback from/by participants.
-  -  [`wiki.keyneson`](https://github.com/maxheld83/keyneson/wiki): Meta information on the study, especially the *condition of instruction*.
-  -  [`keyneson-sample`](https://github.com/maxheld83/keyneson-sample): The *Q sample of items* (or subset) from a concourse, as used in any given q study.
-    - [`wiki.keyneson-sample`](https://github.com/maxheld83/keyneson-sample/wiki): Meta information on the sample, especially the *sampling structure* or other method.
-    - **[`keyneson-concourse`](https://github.com/maxheld83/keyneson-concourse): The *concourse*, or sum of things that could be said about the research subject, from which a sample is drawn.**
-      - [`wiki.keyneson-concourse`](https://github.com/maxheld83/keyneson-concourse/wiki): Meta information on the concourse, such as its *sources* or gathering methods.
+All data for this study is included in:
+
+- [`schumpermas`](https://github.com/maxheld83/schumpersorts): The complete study, including how design, administration etc.
+- [`schumpersorts`](https://github.com/maxheld83/schumpersorts): The *q data*, including q sorts and item feedback from/by participants.
+- **[`keyneson`](https://github.com/maxheld83/keyneson): The *concourse*, or sum of things that could be said about the research subject, together with a sample is drawn and condition of instruction.**
 
